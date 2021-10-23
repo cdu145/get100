@@ -21,4 +21,8 @@
     <string name="guide_operations_order">The order of arithmetic operations matters. Multiplication and division take precedence over addition and subtraction.</string>
     <string name="guide_leading_zeros">Leading zeros of numbers are discarded.</string>
     <string name="guide_hint">To get a hint, tap the button with the lightbulb icon.</string>
+    <string name="rateDialog_title">How do you like it?</string>
+    <string name="rateDialog_message">Please, tell us what you think about the app</string>
+    <string name="rateDialog_maybeLater">Maybe later</string>
+    <string name="rateDialog_goRate">Rate</string>
 </resources>

@@ -18,6 +18,7 @@ import cdu145.tickets.hint.AlmostCompletedDialog
 import cdu145.tickets.hint.AlmostCompletedDialogState
 import cdu145.tickets.hint.NoHintsAvailableDialogState
 import cdu145.tickets.hint.available.dialog.NoHintsAvailableDialog
+import cdu145.tickets.ratedialog.RateDialog
 import cdu145.ui.state.DialogState
 import cdu145.ui.state.DialogState.Shown
 
@@ -52,4 +53,6 @@ fun DialogsOverlay(
             Guide.getScopeOrNull()?.close()
         }
     }
+
+    RateDialog()
 }

@@ -21,4 +21,8 @@
     <string name="guide_operations_order">Порядок арифметических операций имеет значение. Сначала выполняется умножение и деление, а затем — сложение и вычитание.</string>
     <string name="guide_leading_zeros">Нули в начале чисел отбрасываются.</string>
     <string name="guide_hint">Чтобы получить подсказку, нажмите на кнопку с иконкой лампочки.</string>
+    <string name="rateDialog_title">Как вам приложение?</string>
+    <string name="rateDialog_message">Расскажите нам, что вы думаете о приложении, оставив отзыв</string>
+    <string name="rateDialog_maybeLater">Позже</string>
+    <string name="rateDialog_goRate">Оценить</string>
 </resources>
